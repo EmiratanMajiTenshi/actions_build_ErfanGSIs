@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/9.21.4.29/cn_daily/20210429002018/c0aa61fe/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/21.6.2/miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
